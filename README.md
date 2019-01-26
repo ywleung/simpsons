@@ -3,7 +3,7 @@ This dataset contains 47 characters from The Simpsons. Main characters have more
 A CNN model is trained to recognize 19 characters with more than 300 pictures.<br>
 The model achieves 0.99 F1-score.
 
-Video Demo:
+Video Demo:<br>
 [![](http://img.youtube.com/vi/myXXcyaSwYk/0.jpg)](http://www.youtube.com/watch?v=myXXcyaSwYk "Simpson Recognition")
 
 To-Do list:
